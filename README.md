@@ -15,6 +15,7 @@ Curated resources for forex brokerage operations, compiled by FxCore CRM.
 - [Forex CRM Evaluation Guide](https://github.com/FxCore-Forex-CRM/forex-crm-guide)
 - [MT5 Integration Technical Guide](https://github.com/FxCore-Forex-CRM/mt5-integration-guide)
 - [Prop Trading CRM Guide](https://github.com/FxCore-Forex-CRM/prop-trading-crm)
+- https://fxcorecrm.com/blogs/pamm-fee-structures-performance-management-and-subscription
 
 ## External resources
 
