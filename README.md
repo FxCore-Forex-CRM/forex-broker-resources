@@ -1,6 +1,7 @@
 # Forex Broker Resources
 
 Curated resources for forex brokerage operations, compiled by FxCore CRM.
+https://fxcorecrm.com/blogs/why-dubai-is-becoming-a-forex-brokerage-hub-in-2026
 
 ## Topics covered
 
