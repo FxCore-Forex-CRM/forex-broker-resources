@@ -18,6 +18,7 @@ https://fxcorecrm.com/blogs/why-dubai-is-becoming-a-forex-brokerage-hub-in-2026
 - [Prop Trading CRM Guide](https://github.com/FxCore-Forex-CRM/prop-trading-crm)
 - https://fxcorecrm.com/blogs/pamm-fee-structures-performance-management-and-subscription
 - https://fxcorecrm.com/blogs/dubai-forex-brokerage-launch-checklist
+- https://fxcorecrm.com/blogs/automated-kyc-verification-for-brokers
 
 ## External resources
 
